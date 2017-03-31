@@ -1,0 +1,25 @@
+body{
+background-image:url("http://i67.tinypic.com/24gudz9.png");
+background-position: right bottom;
+background-size: cover;
+}
+
+ul{
+    text-align: right;
+    vertical-align: bottom;
+    list-style: none;
+    
+    
+}
+
+#all {
+    height:100%;
+    position: relative;
+}
+
+.list {
+    position: absolute;
+    bottom: 0;
+    right: 150;
+    
+}
